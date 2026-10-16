@@ -1,0 +1,8 @@
+Aula 5 - Codificação de Variáveis Categóricas (Feature Encoding)
+Fase 3 - Modeling Machine Learning
+Capítulo: Modelos de Machine Learning Supervisionados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=622999&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=623007
+
+Obs.: links exigem login na plataforma FIAP.

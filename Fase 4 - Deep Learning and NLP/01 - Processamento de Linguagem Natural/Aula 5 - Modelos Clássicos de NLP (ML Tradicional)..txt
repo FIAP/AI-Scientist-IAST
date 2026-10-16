@@ -1,0 +1,8 @@
+Aula 5 - Modelos Clássicos de NLP (ML Tradicional).
+Fase 4 - Deep Learning and NLP
+Capítulo: Processamento de Linguagem Natural
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=657535&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=657541
+
+Obs.: links exigem login na plataforma FIAP.

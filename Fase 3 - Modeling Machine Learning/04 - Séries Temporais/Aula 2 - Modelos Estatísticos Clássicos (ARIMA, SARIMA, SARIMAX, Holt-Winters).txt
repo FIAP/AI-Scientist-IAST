@@ -1,0 +1,8 @@
+Aula 2 - Modelos Estatísticos Clássicos (ARIMA, SARIMA, SARIMAX, Holt-Winters)
+Fase 3 - Modeling Machine Learning
+Capítulo: Séries Temporais
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=623041&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=623045
+
+Obs.: links exigem login na plataforma FIAP.

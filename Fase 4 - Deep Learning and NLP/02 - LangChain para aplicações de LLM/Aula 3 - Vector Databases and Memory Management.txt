@@ -1,0 +1,8 @@
+Aula 3 - Vector Databases and Memory Management
+Fase 4 - Deep Learning and NLP
+Capítulo: LangChain para aplicações de LLM
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=657559&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=657564
+
+Obs.: links exigem login na plataforma FIAP.

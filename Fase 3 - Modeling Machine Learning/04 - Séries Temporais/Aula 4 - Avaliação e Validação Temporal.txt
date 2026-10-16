@@ -1,0 +1,8 @@
+Aula 4 - Avaliação e Validação Temporal
+Fase 3 - Modeling Machine Learning
+Capítulo: Séries Temporais
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=623043&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=623047
+
+Obs.: links exigem login na plataforma FIAP.

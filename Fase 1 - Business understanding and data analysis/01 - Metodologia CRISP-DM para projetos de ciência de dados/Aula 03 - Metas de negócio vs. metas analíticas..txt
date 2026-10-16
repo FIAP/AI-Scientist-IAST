@@ -1,0 +1,8 @@
+Aula 03 - Metas de negócio vs. metas analíticas.
+Fase 1 - Business understanding and data analysis
+Capítulo: Metodologia CRISP-DM para projetos de ciência de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=595820&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=595824
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 1 - Fundamentos do Aprendizado Supervisionado
+Fase 3 - Modeling Machine Learning
+Capítulo: Modelos de Machine Learning Supervisionados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=622995&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=623003
+
+Obs.: links exigem login na plataforma FIAP.

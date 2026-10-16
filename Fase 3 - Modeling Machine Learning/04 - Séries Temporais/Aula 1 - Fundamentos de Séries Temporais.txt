@@ -1,0 +1,8 @@
+Aula 1 - Fundamentos de Séries Temporais
+Fase 3 - Modeling Machine Learning
+Capítulo: Séries Temporais
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=623040&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=623044
+
+Obs.: links exigem login na plataforma FIAP.

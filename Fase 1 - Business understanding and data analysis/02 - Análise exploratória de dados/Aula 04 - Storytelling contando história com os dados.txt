@@ -1,0 +1,8 @@
+Aula 04 - Storytelling: contando história com os dados
+Fase 1 - Business understanding and data analysis
+Capítulo: Análise exploratória de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=595830&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=595834
+
+Obs.: links exigem login na plataforma FIAP.

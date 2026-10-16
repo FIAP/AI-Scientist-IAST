@@ -1,0 +1,8 @@
+Aula 4 - Clusterização Avançada: DBSCAN
+Fase 3 - Modeling Machine Learning
+Capítulo: Modelos de Machine Learning Não Supervisionados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=623015&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=623022
+
+Obs.: links exigem login na plataforma FIAP.

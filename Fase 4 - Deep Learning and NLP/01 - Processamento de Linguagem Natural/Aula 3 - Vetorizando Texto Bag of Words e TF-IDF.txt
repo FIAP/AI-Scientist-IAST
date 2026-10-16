@@ -1,0 +1,8 @@
+Aula 3 - Vetorizando Texto: Bag of Words e TF-IDF
+Fase 4 - Deep Learning and NLP
+Capítulo: Processamento de Linguagem Natural
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=657533&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=657539
+
+Obs.: links exigem login na plataforma FIAP.

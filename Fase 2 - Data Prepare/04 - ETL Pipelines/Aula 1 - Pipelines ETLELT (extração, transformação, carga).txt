@@ -1,0 +1,8 @@
+Aula 1 - Pipelines ETL/ELT (extração, transformação, carga)
+Fase 2 - Data Prepare
+Capítulo: ETL Pipelines
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=611227&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=611231
+
+Obs.: links exigem login na plataforma FIAP.

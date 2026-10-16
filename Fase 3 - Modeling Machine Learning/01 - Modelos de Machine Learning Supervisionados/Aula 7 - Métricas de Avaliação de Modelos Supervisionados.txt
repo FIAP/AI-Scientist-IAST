@@ -1,0 +1,8 @@
+Aula 7 - Métricas de Avaliação de Modelos Supervisionados
+Fase 3 - Modeling Machine Learning
+Capítulo: Modelos de Machine Learning Supervisionados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=623001&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=623009
+
+Obs.: links exigem login na plataforma FIAP.

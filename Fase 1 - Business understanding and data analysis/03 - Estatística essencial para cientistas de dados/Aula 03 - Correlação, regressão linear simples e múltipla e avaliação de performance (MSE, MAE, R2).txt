@@ -1,0 +1,8 @@
+Aula 03 - Correlação, regressão linear simples e múltipla e avaliação de performance (MSE, MAE, R2)
+Fase 1 - Business understanding and data analysis
+Capítulo: Estatística essencial para cientistas de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=595838&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=595843
+
+Obs.: links exigem login na plataforma FIAP.

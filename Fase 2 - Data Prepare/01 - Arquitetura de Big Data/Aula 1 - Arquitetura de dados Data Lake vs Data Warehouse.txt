@@ -1,0 +1,8 @@
+Aula 1 - Arquitetura de dados: Data Lake vs Data Warehouse
+Fase 2 - Data Prepare
+Capítulo: Arquitetura de Big Data
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=611202&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=611206
+
+Obs.: links exigem login na plataforma FIAP.

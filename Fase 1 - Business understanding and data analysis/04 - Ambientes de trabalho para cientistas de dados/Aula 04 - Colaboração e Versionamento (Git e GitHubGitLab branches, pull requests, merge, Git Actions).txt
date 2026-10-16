@@ -1,0 +1,8 @@
+Aula 04 - Colaboração e Versionamento (Git e GitHub/GitLab: branches, pull requests, merge, Git Actions)
+Fase 1 - Business understanding and data analysis
+Capítulo: Ambientes de trabalho para cientistas de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=595850&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=595854
+
+Obs.: links exigem login na plataforma FIAP.
